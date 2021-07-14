@@ -10,7 +10,7 @@ When the program is ran, the user is asked whether they would like to add entrie
 
 ## The Fibonacci Sequence
 
-Before discussing the Fibonacci Study Plan we should first discuss the fibonacci sequence. The sequence begins with either a 0 or a 1; however, the second element is always a 1. The consecutive elements in the fibonacci sequence can be found by adding the previous two elements. For this program, the code utilizes a definiton of the fibonacci sequence where the first number is 1 and not 0. As a consequence of this the first few numbers in the sequence are 1, 1, 2, 3, 5,etc.  
+Before discussing the Fibonacci Study Plan we should first discuss the fibonacci sequence. The sequence begins with either a 0 or a 1; however, the second element is always a 1. The consecutive elements in the fibonacci sequence can be found by adding the previous two elements. For this program, the code utilizes a definiton of the fibonacci sequence where the first number is 1 and not 0. As a consequence of this the first few numbers in the sequence are 1, 1, 2, 3, 5, etc.  
 
 ## The Fibonacci Study Plan
 
@@ -18,4 +18,4 @@ It is quite certain that whenever we wish to retain some information, it is not 
 
 ## Prerequisities
 
-In order to utilize this code, a file named "credentials.json" needs to be included in the workspace directory. This file can be retreived by visiting console.google.developers.com. After logging into the site, it is necessary to create a project and enable the Google Calendar API. After doing this, one can download their credentials by visiting the "credential section" and downloading the file under the category "OAuth 2.0 Client IDs". Any users of this code should ensure that they rewrite any environment variables to fir their own needs. 
+In order to utilize this code, a file named "credentials.json" needs to be included in the workspace directory. This file can be retreived by visiting console.google.developers.com. After logging into the site, it is necessary to create a project and enable the Google Calendar API. After doing this, one can download their credentials by visiting the "credential section" and downloading the file under the category "OAuth 2.0 Client IDs". Any users of this code should ensure that they rewrite any environment variables to fit their own needs. 
