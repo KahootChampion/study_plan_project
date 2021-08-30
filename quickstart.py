@@ -1,3 +1,4 @@
+# This file only contains code taken from the Google Calendar API Documentation
 from __future__ import print_function
 import os.path
 from googleapiclient.discovery import build

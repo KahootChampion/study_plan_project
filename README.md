@@ -1,4 +1,4 @@
-# study_plan_project
+# Study Plan Project
 
 This project was inspired by my need to keep track of all the things that I wish to learn. 
 
